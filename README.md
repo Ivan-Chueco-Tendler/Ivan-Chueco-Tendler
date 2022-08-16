@@ -3,22 +3,23 @@
 ```js
 let Ivan-Chueco-Tendler = {
   Skills: {
-    Backend: [ 'Node.js', 'Express', 'Sequelize', 'Passport', 'JSON Web Token', 'Stripe', 'Nodemailer', 'Mongoose'],
+    Backend: [ 'Node.js', 'Express', 'Sequelize', 'Passport', 'JSON Web Token', 'Stripe', 'Nodemailer', 'Mongoose', 'Typescript'],
     Databases: {
       SQL: "PostgreSQL",
       NoSQL: "MongoDB",
     }
-    Projects:{
+    Soft-Skills: ['Proactive', 'Results-oriented', 'Logical thinking', 'Perseverance', 'Team player']
+   }
+  Projects:{
       Bookovich: "https://e-commerce-book-store.vercel.app/",
       RITUAL(failed): "https://ecommerce-client-kappa.vercel.app/" 
-    }
   }
 }
 ```
 
 
 
-<h2> You can contact me by clicking the icons:</h2>
+<h3> You can contact me by clicking the icons:</h3>
 <p>
     <a href="https://www.linkedin.com/in/ivan-chueco-tendler-dev/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
