@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hey, my name is Ivan Chueco Tendler 👨‍💻 Welcome to my github 👋
 
-<!--
-**Ivan-Chueco-Tendler/Ivan-Chueco-Tendler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+let Ivan-Chueco-Tendler = {
+  Skills: {
+    Backend: [ 'Node.js', 'Express', 'Sequelize', 'Passport', 'JSON Web Token', 'Stripe', 'Nodemailer', 'Mongoose'],
+    Databases: {
+      SQL: "PostgreSQL",
+      NoSQL: "MongoDB",
+    }
+    Projects:{
+      Bookovich: "https://e-commerce-book-store.vercel.app/",
+      RITUAL(failed): "https://ecommerce-client-kappa.vercel.app/" 
+    }
+  }
+}
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p>
+    <a href="https://www.linkedin.com/in/ivan-chueco-tendler-dev/">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+    </a>
+    <a href="https://github.com/Ivan-Chueco-Tendler">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
+    </a>
+    <a href="mailto:ivan.chueco.t@gmail.com?subject=We are interested in your skills!">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" />
+    </a>
+<p/>
