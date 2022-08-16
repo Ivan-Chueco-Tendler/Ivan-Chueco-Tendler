@@ -26,12 +26,12 @@ let Ivan-Chueco-Tendler = {
 <h3> You can contact me by clicking the following icons:</h3>
 <p>
     <a href="https://www.linkedin.com/in/ivan-chueco-tendler-dev/">
-      <img width="10%" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+      <img height="auto" width="10%" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
     <a href="https://github.com/Ivan-Chueco-Tendler">
-      <img width="10%" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
+      <img height="auto" width="10%" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
     </a>
     <a href="mailto:ivan.chueco.t@gmail.com?subject=We are interested in your skills!">
-      <img width="10%" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" />
+      <img height="auto" width="10%" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" />
     </a>
 <p/>
