@@ -2,8 +2,7 @@
 
 <h3>Full stack developer with an orientation to Back-end 🖥</h3>
 What I enjoy most about working on projects is finding new challenges to work out 🧠! 
-
-
+</br>
 ```js
 let Ivan-Chueco-Tendler = {
   Skills: {
