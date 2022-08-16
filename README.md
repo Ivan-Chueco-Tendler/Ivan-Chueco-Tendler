@@ -3,7 +3,7 @@
 ```js
 let Ivan-Chueco-Tendler = {
   Skills: {
-    Backend: [ 'Node.js', 'Express', 'Sequelize', 'Passport', 'JSON Web Token', 'Stripe', 'Nodemailer', 'Mongoose', 'Typescript'],
+    Backend: ['Node.js', 'Express', 'Sequelize', 'Passport', 'JSON Web Token', 'Stripe', 'Nodemailer', 'Mongoose', 'Typescript'],
     Soft-Skills: ['Proactive', 'Results-oriented', 'Logical thinking', 'Perseverance', 'Team player'],
     Databases: {
       SQL: "PostgreSQL",
