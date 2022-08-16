@@ -4,15 +4,15 @@
 let Ivan-Chueco-Tendler = {
   Skills: {
     Backend: [ 'Node.js', 'Express', 'Sequelize', 'Passport', 'JSON Web Token', 'Stripe', 'Nodemailer', 'Mongoose', 'Typescript'],
+    Soft-Skills: ['Proactive', 'Results-oriented', 'Logical thinking', 'Perseverance', 'Team player'],
     Databases: {
       SQL: "PostgreSQL",
       NoSQL: "MongoDB",
-    }
-    Soft-Skills: ['Proactive', 'Results-oriented', 'Logical thinking', 'Perseverance', 'Team player']
-   }
-  Projects:{
+    },
+  },
+  Projects: {
       Bookovich: "https://e-commerce-book-store.vercel.app/",
-      RITUAL(failed): "https://ecommerce-client-kappa.vercel.app/" 
+      RITUAL(failed): "https://ecommerce-client-kappa.vercel.app/", 
   }
 }
 ```
